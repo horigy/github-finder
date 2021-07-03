@@ -1,4 +1,7 @@
-# vue-cli
+# Simple app to search github users and their repos
+
+## Published in 
+https://horigy.github.io/ngerasimov.github.io/github-finder/
 
 ## Project setup
 ```
